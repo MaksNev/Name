@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-decoration: underline;
+}
+p {
+    color: rgb(240, 0, 0);
+}
+.first {
+    color: rgb(0, 121, 0);
+}
+.days {
+    font-size: 16pt;
+}
+.days li:nth-child(3){
+    background-color: green;
+    color: yellow;
+    width: 50%;
+} 
